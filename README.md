@@ -1,5 +1,5 @@
-# MCP GitHub Auth Test
+# Leeg bestand
 
-Dit bestand is gemaakt om te verifiëren dat de GitHub MCP autorisatie correct werkt na het vernieuwen van het Personal Access Token.
+Deze repository was een tijdelijke test en kan nu verwijderd worden.
 
-Test uitgevoerd op: Zaterdag 17 mei 2025
+Repository aangemaakt voor het testen van de GitHub MCP autorisatie, 17 mei 2025.
